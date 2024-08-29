@@ -1,1 +1,2 @@
 # vigenere_cipher_app_ukraine
+Vigenère Cipher App is a Flutter-based application that employs advanced cryptographic algorithms to provide encryption, decryption, cryptanalysis, and histogram generation functionalities. Designed to operate in the Ukrainian language, this app offers a robust platform for secure communication and data analysis, making it a powerful tool for both encryption enthusiasts and professionals.
